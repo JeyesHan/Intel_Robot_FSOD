@@ -1,0 +1,3 @@
+[submodule "DeFRCN_Custom"]
+	path = DeFRCN_Custom
+	url = git@github.com:JeyesHan/DeFRCN_Custom.git
